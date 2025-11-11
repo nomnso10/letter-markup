@@ -1,2 +1,2 @@
 # letter-markup
-sample letter 
+sample letter built using HTML and CSS
